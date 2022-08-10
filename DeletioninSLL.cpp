@@ -14,7 +14,6 @@ class node{
             delete next;
             this->next=NULL;
         }
-
        }
 };
 
